@@ -16,12 +16,13 @@ Adding new tenant details:\
 
 
 Agreement Details:\
+![details](https://user-images.githubusercontent.com/90144181/236865922-c72d3d02-e0ae-4a27-9d05-89256ae0045b.png)
 
 
 Owner's Dashboard:\
 ![owners dashboard](https://user-images.githubusercontent.com/90144181/236860117-24019824-4e8e-4250-8ed5-f0b5f92df793.png)
 
-Tenant Home page:\
+Tenant's Home page:\
 ![tenant home page](https://user-images.githubusercontent.com/90144181/236865205-95c1b82d-1e5e-4185-85db-c33f649327cb.png)
 
 
