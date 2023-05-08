@@ -11,15 +11,16 @@ Fetures:\
 -Arrear carry forward to next month\
 -login for owners and tenants
 
-Adding new tenant details:
+Adding new tenant details:\
 
 
-Agreement Details:
+Agreement Details:\
 
 
-Owner's Dashboard:
+Owner's Dashboard:\
 ![owners dashboard](https://user-images.githubusercontent.com/90144181/236860117-24019824-4e8e-4250-8ed5-f0b5f92df793.png)
 
-Tenant Home page:
+Tenant Home page:\
+![tenant home page](https://user-images.githubusercontent.com/90144181/236865205-95c1b82d-1e5e-4185-85db-c33f649327cb.png)
 
 
