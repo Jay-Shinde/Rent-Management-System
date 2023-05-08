@@ -12,6 +12,7 @@ Fetures:\
 -login for owners and tenants
 
 Adding new tenant details:\
+![register tenant](https://user-images.githubusercontent.com/90144181/236865576-6b8ac9e2-b536-4c9e-94fe-96ddef56bb68.png)
 
 
 Agreement Details:\
